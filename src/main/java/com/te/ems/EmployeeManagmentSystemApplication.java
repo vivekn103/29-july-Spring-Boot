@@ -31,6 +31,7 @@ public class EmployeeManagmentSystemApplication {
 	public CommandLineRunner commandLineRunner(){
 		return args -> {
 			System.out.println("commandLineRunner() method is running");
+
 		};
 	}
 }
